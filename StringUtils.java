@@ -1,3 +1,4 @@
-Hello thus file contains the string related functions 
+Hello this file contains the string related functions..
+
 
 ...

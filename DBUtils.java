@@ -1,2 +1,5 @@
-Hello im using this 
+Hello .. This file contains the DB connection logic
+
+
+...
 
